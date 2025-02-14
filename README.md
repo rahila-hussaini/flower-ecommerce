@@ -38,7 +38,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgments
 Special thanks to the open-source community and design inspirations.
-
----
-Feel free to modify this README as needed! 😊
-

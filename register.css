@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(images/nathan-dumlao---OZtMyddAE-unsplash.jpg) no-repeat;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.wrapper {
+  width: 500px;
+  background: rgba(255, 255, 255, 0.1);
+  color: #000;
+  border-radius: 10px;
+  padding: 30px 40px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(35px);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+input.form-control {
+  border-radius: 5px; 
+}
+
+.input-group-text {
+  background: transparent;
+  border: none;
+}
+#footer{
+  color: rgba(86, 85, 85, 0.846);
+  margin-bottom: -40px;
+}
+#soial-icon a{
+  display: inline-block;
+  margin: 15px;
+}

@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(images/nathan-dumlao---OZtMyddAE-unsplash.jpg) no-repeat;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.wrapper {
+  width: 420px;
+  background: rgba(255, 255, 255, 0.1);
+  color: #000;
+  border-radius: 10px;
+  padding: 30px 40px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(35px);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.wrapper h1 {
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+input.form-control {
+  border-radius: 5px; 
+}
+
+.input-group-text {
+  background: transparent;
+  border: none;
+}

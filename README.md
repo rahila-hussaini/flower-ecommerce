@@ -29,8 +29,7 @@ Flower Ecommerce is an online store where users can browse and purchase flowers 
    ```
 3. Open `index.html` in your browser.
 
-### OR you can <a href=" https://rahila-hussaini.github.io/flower-ecommerce/">see live</a> as  well
-
+ <p> Or you can <a href="https://rahila-hussaini.github.io/flower-ecommerce/"> see live </a> as  well<p>
 ## 📌 Usage
 Simply open the project in a browser to explore the beautiful flower gallery, like your favorite flowers, and shop online with ease.
 
